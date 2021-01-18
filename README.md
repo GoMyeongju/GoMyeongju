@@ -10,13 +10,13 @@
   
   <div align="center">
 
-   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F19475&title_bg=%23555555&&icon=devrant.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)         
+   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGoMyeongju%2Fhit-counter&count_bg=%23F19475&title_bg=%23555555&&icon=devrant.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)         
 
  </div>
  
  
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GoMyeongju&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
   
@@ -27,13 +27,13 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/myeong_ju_u" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.notion.so/GoMyeongju-f8cb0cb247f24350ab2e5e1cdf4dfa83" target="_blank">
-<img src=https://img.shields.io/badge/Notion-%23000000.svg?&style=for-the-badge&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 5px;" />
 </a> 
 <a href="matilto:ko9608@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Mail-%D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Mail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
