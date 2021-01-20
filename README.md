@@ -23,7 +23,7 @@
   
   ## Connect with me  
 <div align="center">
-<a href="https://github.com/GooMyeongju" target="_blank">
+<a href="https://github.com/GoMyeongju" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/myeong_ju_u" target="_blank">
@@ -32,7 +32,7 @@
 <a href="https://www.notion.so/GoMyeongju-f8cb0cb247f24350ab2e5e1cdf4dfa83" target="_blank">
 <img src=https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white alt=Notion style="margin-bottom: 5px;" />
 </a> 
-<a href="matilto:ko9608@gmail.com" target="_blank">
+<a href="mailto:ko9608@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Mail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
 </div>  
